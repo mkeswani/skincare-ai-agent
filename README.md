@@ -44,6 +44,7 @@ The system combines:
 
 ## Project Structure
 
+```plaintext
 src/
 ├── ingestion/ # PDF parsing & chunking
 ├── retrieval/ # Embeddings & vector search
@@ -51,7 +52,7 @@ src/
 ├── agent/ # Agent orchestration & safety
 ├── evaluation/ # Testing & metrics
 ├── app/ # User-facing interface
-
+```
 
 ---
 
